@@ -1,5 +1,7 @@
 # Portfolios
 
+![creo_jack](./readme.assets/creo_曲柄活塞.png)
+
 ![creo_jack](./readme.assets/creo_jack.png)
 
 ![sw_钣金1](./readme.assets/sw_钣金1.png)
