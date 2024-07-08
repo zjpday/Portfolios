@@ -4,6 +4,8 @@
 
 ![creo_jack](./readme.assets/creo_jack.png)
 
+![sw_曲面1_airpod1](./readme.assets/sw_曲面1_airpod1.png)
+
 ![sw_钣金1](./readme.assets/sw_钣金1.png)
 
 ![sw_钣金2](./readme.assets/sw_钣金2.png)
