@@ -14,8 +14,8 @@
 
 ![ug_nwgedian](./readme.assets/ug_nwgedian.png)
 
-![fan](https://i.vgy.me/jhsYsP.png)
+![fan](./readme.assets/sw_风扇.png)
 
-![fan](https://i.vgy.me/K3A1bc.png)
+![fan](./readme.assets/sw_风筒.png)
 
-![mouse](https://i.vgy.me/r9hIk2.png)
+![mouse](./readme.assets/sw_鼠标.png)
