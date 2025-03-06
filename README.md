@@ -13,3 +13,9 @@
 ![sw_脱壳机](./readme.assets/sw_脱壳机.png)
 
 ![ug_nwgedian](./readme.assets/ug_nwgedian.png)
+
+![fan](https://i.vgy.me/jhsYsP.png)
+
+![fan](https://i.vgy.me/K3A1bc.png)
+
+![mouse](https://i.vgy.me/r9hIk2.png)
